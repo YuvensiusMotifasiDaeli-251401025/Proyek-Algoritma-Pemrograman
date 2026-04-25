@@ -3,7 +3,7 @@
 
 Nama kelompok : Alpro Gang
 
-Nama Proyek : money tracker mahasiswa
+Nama Proyek : Money Tracker Mahasiswa
 
 Deskripsi Projek : aplikasi money tracker mahasiswa adalah program berbasis menu yang digunakan untuk mencatat pemasukan dan pengeluaran mahasiswa. program ini menggunakan struktur perulangan untuk menampilkan menu secara berulang dan percabangan untuk menjalankan fitur sesuai pilihan pengguna. data transaksi disimpan dalam array/list dan digunakan untuk menghitung saldo secara otomatis
 
