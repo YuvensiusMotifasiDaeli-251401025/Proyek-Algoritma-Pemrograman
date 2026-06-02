@@ -1,0 +1,5 @@
+C:/Users/Yuvensius/OneDrive/Pictures/MoneyTracker/MoneyTracker/build/Desktop_Qt_6_11_1_MinGW_64_bit-Release/CMakeFiles/MoneyTracker.dir
+C:/Users/Yuvensius/OneDrive/Pictures/MoneyTracker/MoneyTracker/build/Desktop_Qt_6_11_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Yuvensius/OneDrive/Pictures/MoneyTracker/MoneyTracker/build/Desktop_Qt_6_11_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Yuvensius/OneDrive/Pictures/MoneyTracker/MoneyTracker/build/Desktop_Qt_6_11_1_MinGW_64_bit-Release/CMakeFiles/MoneyTracker_autogen_timestamp_deps.dir
+C:/Users/Yuvensius/OneDrive/Pictures/MoneyTracker/MoneyTracker/build/Desktop_Qt_6_11_1_MinGW_64_bit-Release/CMakeFiles/MoneyTracker_autogen.dir
